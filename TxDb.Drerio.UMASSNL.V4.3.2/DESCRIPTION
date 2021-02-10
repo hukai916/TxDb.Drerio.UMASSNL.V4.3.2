@@ -1,0 +1,16 @@
+Package: TxDb.Drerio.UMASSNL.V4.3.2
+Title: Annotation package for TxDb object(s)
+Description: Exposes an annotation databases generated from https://www.umassmed.edu/globalassets/lawson-lab/downloadfiles/v4.3.2.gtf by exposing these as TxDb objects
+Version: 4.3.2
+Author: Kai Hu <kai.hu@umassmed.edu> [cre]
+Maintainer: Kai Hu <kai.hu@umassmed.edu>
+Depends: GenomicFeatures (>= 1.42.1)
+Imports: AnnotationDbi
+License: Artistic-2.0
+organism: Danio rerio
+species: Danio rerio
+provider: https://www.umassmed.edu/globalassets/lawson-lab/downloadfiles/v4.3.2.gtf
+provider_version: https://www.umassmed.edu/globalassets/lawson-lab/downloadfiles/v4.3.2.gtf
+release_date: 2021-02-09 22:48:55 -0500 (Tue, 09 Feb 2021)
+resource_url: https://www.umassmed.edu/globalassets/lawson-lab/downloadfiles/v4.3.2.gtf
+biocViews: AnnotationData, Genetics, TxDb, Danio_rerio
