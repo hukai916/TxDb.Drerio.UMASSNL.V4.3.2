@@ -15,10 +15,8 @@ citEntry(
   journal  = "Elife",
   year     = 2020,
   volume   = 9,
-  number   = ,
-  pages    = ,
   url      = "https://elifesciences.org/articles/55792",
   doi      = "10.7554/eLife.55792",
-  ISSN     = "2050-084X ",
-  textVersion = paste("Lawson, N. D.†, Li, R., Yukselen, O., Kucukural, A., Zhu, L. J. (2020) An improved zebrafish transcriptome annotation for sensitive and comprehensive detection of cell type-specific genes. eLife 9:e55792.")
+  ISSN     = "2050-084X",
+  textVersion = "Lawson, N. D.†, Li, R., Yukselen, O., Kucukural, A., Zhu, L. J. (2020) An improved zebrafish transcriptome annotation for sensitive and comprehensive detection of cell type-specific genes. eLife 9:e55792."
 )
