@@ -1,8 +1,8 @@
 Package: TxDb.Drerio.UMASSNL.V4.3.2
 Title: Annotation package for TxDb object(s)
 Description: Exposes an annotation databases generated from https://www.umassmed.edu/globalassets/lawson-lab/downloadfiles/v4.3.2.gtf by exposing these as TxDb objects
-Version: 4.3.2
-Author: Kai Hu <kai.hu@umassmed.edu> [cre]
+Version: 0.0.1
+Author: Kai Hu <kai.hu@umassmed.edu> [cre], Nathan D Lawson, Rui Li, Masahiro Shin, Ann Grosse, Onur Yukselen, Oliver A Stone, Alper Kucukural, Lihua Zhu
 Maintainer: Kai Hu <kai.hu@umassmed.edu>
 Depends: GenomicFeatures (>= 1.42.1)
 Imports: AnnotationDbi
@@ -11,7 +11,6 @@ organism: Danio rerio
 species: Danio rerio
 provider: https://www.umassmed.edu/globalassets/lawson-lab/downloadfiles/v4.3.2.gtf
 provider_version: https://www.umassmed.edu/globalassets/lawson-lab/downloadfiles/v4.3.2.gtf
-release_date: 2021-02-09 23:11:36 -0500 (Tue, 09 Feb 2021)
+release_date: 2021-02-11 00:51:27 -0500 (Thu, 11 Feb 2021)
 resource_url: https://www.umassmed.edu/globalassets/lawson-lab/downloadfiles/v4.3.2.gtf
 biocViews: AnnotationData, Genetics, TxDb, Danio_rerio
-Citation: Lawson, N. D.†, Li, R., Yukselen, O., Kucukural, A., Zhu, L. J. (2020) An improved zebrafish transcriptome annotation for sensitive and comprehensive detection of cell type-specific genes. eLife 9:e55792. 
