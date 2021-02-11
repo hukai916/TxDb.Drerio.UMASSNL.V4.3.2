@@ -24,7 +24,7 @@
   2021-02-11 00:51:27 -0500 (Thu, 11 Feb 2021) and based on the https://www.umassmed.edu/globalassets/lawson-lab/downloadfiles/v4.3.2.gtf
 }
 
-\author{Kai Hu <kai.hu@umassmed.edu> [cre], Nathan D Lawson, Rui Li, Masahiro Shin, Ann Grosse, Onur Yukselen, Oliver A Stone, Alper Kucukural, Lihua Zhu}
+\author{Kai Hu <kai.hu@umassmed.edu> [cre], Nathan Lawson, Rui Li, Masahiro Shin, Ann Grosse, Onur Yukselen, Oliver Stone, Alper Kucukural, Lihua Zhu}
 
 
 \seealso{

@@ -2,7 +2,7 @@ Package: TxDb.Drerio.UMASSNL.V4.3.2
 Title: Annotation package for TxDb object(s)
 Description: Exposes an annotation databases generated from https://www.umassmed.edu/globalassets/lawson-lab/downloadfiles/v4.3.2.gtf by exposing these as TxDb objects
 Version: 0.0.1
-Author: Kai Hu <kai.hu@umassmed.edu> [cre], Nathan D Lawson, Rui Li, Masahiro Shin, Ann Grosse, Onur Yukselen, Oliver A Stone, Alper Kucukural, Lihua Zhu
+Author: Kai Hu <kai.hu@umassmed.edu> [cre], Nathan Lawson, Rui Li, Masahiro Shin, Ann Grosse, Onur Yukselen, Oliver Stone, Alper Kucukural, Lihua Zhu
 Maintainer: Kai Hu <kai.hu@umassmed.edu>
 Depends: GenomicFeatures (>= 1.42.1)
 Imports: AnnotationDbi
