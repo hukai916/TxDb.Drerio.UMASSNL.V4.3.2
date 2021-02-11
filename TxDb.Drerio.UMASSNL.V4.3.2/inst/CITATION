@@ -11,7 +11,7 @@ citEntry(
                         as.person("Onur Yukselen"),
                         as.person("Oliver A Stone"),
                         as.person("Alper Kucukural"),
-                        as.person("Lihua Zhu"))
+                        as.person("Lihua Zhu")),
   journal  = "Elife",
   year     = 2020,
   volume   = 9,
